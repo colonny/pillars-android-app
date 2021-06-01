@@ -1,2 +1,2 @@
-# pillars-android-app
-Aplicativo Android.
+# Pillars
+Aplicativo Android para gerenciar os pilares de sua vida
